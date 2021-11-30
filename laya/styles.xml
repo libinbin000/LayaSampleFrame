@@ -1,0 +1,13 @@
+<res>
+   <item name="res/font/sz.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/ui/countdown/box9.png" type="Sprite" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/ui/comm/blackBox.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/ui/sharevideo/sharevideopope.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/ui/sharevideo/sharevideorewardbg.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/unity" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/effect/star.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="loading" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="loading/progress3.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="loading/progress4.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="loading/share.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+</res>

@@ -1,0 +1,12 @@
+<page>
+   <item name="test/TestScene.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="scene/Main.scene" props="" ifExport="加载模式" aName=""/>
+   <item name="scene/GameScene.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="scene/Game.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="dialog/Login.scene" props="" ifExport="加载模式" aName=""/>
+   <item name="scene/Demo.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="dialog/Demo.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="dialog/Loading.scene" props="" ifExport="加载模式" aName=""/>
+   <item name="view/CarItem.scene" props="" ifExport="加载模式" aName=""/>
+   <item name="dialog/Game.scene" props="" ifExport="加载模式" aName=""/>
+</page>

@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ESNext",
+    "noEmitHelpers": true,
+    "sourceMap": false,
+    "alwaysStrict":true,
+    "inlineSourceMap":true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
